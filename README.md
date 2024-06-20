@@ -1,6 +1,34 @@
-<h4 align="left">Hi 👋! My name is MaleeshaMAdhushanka <br>🌱 I’m currently learning Java,c#<br>🤝 I’m looking for help with collaborate on<br>💬 Ask me about Java<br>📫 How to reach me-linkedin.com/in/maleesha-madushanka-88524b2a7<br>⚡ Fun fact call me as Zeej</h4>
+
+<h1 align="center">
+  Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" alt="hi">, I'm Maleesha Madushanka
+</h1>
+
+<h3 align="left">🌱 I’m currently learning Java,c#<br>🤝 I’m looking for help with collaborate on<br> 
+  💬 Ask me about Java<br>
+  📫 How to reach me-linkedin.com/in/maleesha-madushanka-88524b2a7<br>
+  ⚡ Fun fact call me as Zeej</h3>
+
+  <h3 align="center" style="font-size: 20px">A Passionate</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4000&color=1B78B2&background=EB00FF00&center=true&vCenter=true&width=250&lines=FullStack+Developer;" alt="Typing SVG">
+  </a>
+</div>
+<div align="center">
+  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image">
+</div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maleeshamadushanka&label=Profile%20views&color=0e75b6&style=flat" alt="Maleesha madushanka" />
+</p>
 
 ###
+# My Github Status📊
+
+<h3 align="center">Profile 3D Contributions 🔰</h3>
+<h3 align="center">Github Stats 🧐</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaleeshaMAdhushanka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
