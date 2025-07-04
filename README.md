@@ -1,96 +1,102 @@
-
 <h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" alt="hi">, I'm Maleesha Madushanka
+  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" alt="hi">, I'm Maleesha Madushanka
 </h1>
 
-<h3 align="left">🌱 I’m currently learning React,Vite<br>🤝 I’m looking for help with collaborate on<br> 
-  💬 Ask me about Java<br>
-  📫 How to reach me-linkedin.com/in/maleesha-madushanka-88524b2a7<br>
-  ⚡ Fun fact call me as Zeej</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Java Enthusiast | ☕ Known as "Zeej"</h3>
 
-  <h3 align="center" style="font-size: 20px">A Passionate</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MaleeshaMAdhushanka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 I’m currently learning **React & Vite**
+- 🤝 I’m looking to collaborate on **Open Source** and **Java-based Projects**
+- 💬 Ask me about **Java, Spring Boot, or Web Development**
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/maleesha-madushanka-88524b2a7)
+- ⚡ Fun fact: You can call me **Zeej** 😄
+
+---
+
+### 💼 A Passionate
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4000&color=1B78B2&background=EB00FF00&center=true&vCenter=true&width=250&lines=FullStack+Developer;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4000&color=1B78B2&background=EB00FF00&center=true&vCenter=true&width=280&lines=Full+Stack+Developer" alt="Typing SVG">
   </a>
 </div>
-<div align="center">
-  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image">
-</div>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maleeshamadushanka&label=Profile%20views&color=0e75b6&style=flat" alt="Maleesha madushanka" />
-</p>
-
-###
-# My Github Status📊
-
-<h3 align="center">Profile 3D Contributions 🔰</h3>
-<h3 align="center">Github Stats 🧐</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaleeshaMAdhushanka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaleeshaMAdhushanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Dev Image" width="300">
 </div>
 
-###
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <!-- MERN Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="Node.js" />
+
+  <!-- Additional Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="25" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
+
+  <!-- Other Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="25" alt="Visual Studio" />
 </div>
 
-###
+---
+
+### 🔗 Connect With Me
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="https://linkedin.com/in/maleesha-madushanka-88524b2a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" height="30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-88cc14?logo=tryhackme&logoColor=white&style=for-the-badge" height="30"></a>
 </div>
 
-###
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MaleeshaMAdhushanka.MaleeshaMAdhushanka&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaleeshaMAdhushanka&show_icons=true&theme=dracula&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaleeshaMAdhushanka&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
-###
+---
+
+### 🐍 GitHub Snake Contribution Graph
 
 <img src="https://raw.githubusercontent.com/MaleeshaMAdhushanka/MaleeshaMAdhushanka/output/snake.svg" alt="Snake animation" />
 
-###
+---
+
+### 🎧 Spotify - Recently Played
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played tracks" />
 </div>
-
-###
