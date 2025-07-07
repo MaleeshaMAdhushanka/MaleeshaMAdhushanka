@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/MaleeshaMAdhushanka?label=Stars&style=for-the-badge&color=FFD700" alt="GitHub stars" />
 </div>
 
-<img width="100%" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif"/>
+
 
 ---
 
@@ -33,29 +33,29 @@ I'm a passionate Full Stack Developer with a love for creating efficient, scalab
 <div align="center">
 
 ```javascript
-const zeej = {
-    pronouns: "he" | "him",
-    code: ["Java", "JavaScript", "TypeScript", "Python", "C#"],
-    askMeAbout: ["web dev", "tech", "app dev", "system design"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot", "Hibernate", "Maven", "Microservices"],
-            javascript: ["Node.js", "Express.js", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"],
-            csharp: [".NET Core", "ASP.NET", "Entity Framework"]
-        },
-        frontEnd: {
-            js: ["React", "Angular", "Vue", "Next.js"],
-            css: ["Bootstrap", "Tailwind CSS", "Material-UI", "Styled Components"]
-        },
-        database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
-        misc: ["Git", "Linux", "Figma", "Firebase", "GraphQL"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Clean Architecture"],
-    currentFocus: "Building scalable applications & contributing to open source",
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
-};
+  const zeej = {
+      pronouns: "he" | "him",
+      code: ["Java", "JavaScript", "TypeScript", "Python", "C#"],
+      askMeAbout: ["web dev", "tech", "app dev", "system design"],
+      technologies: {
+          backEnd: {
+              java: ["Spring Boot", "Hibernate", "Maven", "Microservices"],
+              javascript: ["Node.js", "Express.js", "NestJS"],
+              python: ["Django", "Flask", "FastAPI"],
+              csharp: [".NET Core", "ASP.NET", "Entity Framework"]
+          },
+          frontEnd: {
+              js: ["React", "Angular", "Vue", "Next.js"],
+              css: ["Bootstrap", "Tailwind CSS", "Material-UI", "Styled Components"]
+          },
+          database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
+          devOps: ["Docker", "Kubernetes", "AWS", "Azure", "CI/CD"],
+          misc: ["Git", "Linux", "Figma", "Firebase", "GraphQL"]
+      },
+      architecture: ["Microservices", "Event-Driven", "Clean Architecture"],
+      currentFocus: "Building scalable applications & contributing to open source",
+      funFact: "I debug with console.log() and I'm proud of it! 🐛"
+  };
 ```
 
 </div>
